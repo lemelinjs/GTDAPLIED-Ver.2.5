@@ -6,6 +6,8 @@ View - Project Editor (Ctrl-R)
 Sélectionner le module des macros et l'effacer (bouton de droite) sans le sauvegarder
 Importer le module du repository du même nom.
 
+Je créer une branche comme une tentative aux modifications ultérieures
+
 19-11-2016
 ----------
 Mise en place d'un RÉPOSITORY qui suit les versions des MACROS et du classeur
