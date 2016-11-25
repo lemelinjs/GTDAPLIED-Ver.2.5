@@ -7,6 +7,21 @@ Sélectionner le module des macros et l'effacer (bouton de droite) sans le sauveg
 Importer le module du repository du même nom.
 
 Je créer une branche comme une tentative aux modifications ultérieures
+24-11-2016
+----------
+Possibilité 
+- De rechercher un String dans le Inbox
+- De trouver MES PROJETS en un coup d'oeil
+- D'archver avec un numéro de projet (Vérification d'erreur), enlève le P s'il a été mis et renvoi au formulaire quand erreur (sans résultats)
+- Le programme fait un tri des données à chaque recherche et assure que les tâches reliées dans un projet sont toutes ensembles
+
+23-11-2016
+----------
+Mise en place d'un bouton pour archiver les projets.
+
+22-11-206
+---------
+Un formulaire de bouton de base fait. On peut chercher un string dans Inbox ou un numéro de projet.
 
 19-11-2016
 ----------
